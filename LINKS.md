@@ -5,3 +5,4 @@
 5. [Design Patterns in Modern C++](https://www.udemy.com/share/101ZWU3@efHXfXM4ZaeNRlchCbwdNeGnm9pQ0XujdWISlw-j7MzMgglmjIUr8eqIGe8Tl9p47w==/)
 6. [Software Engineering at Google](https://github.com/ju-c/software-engineering-at-google)
 7. [Head First Design Patterns by Eric Freeman, Elisabeth Robson](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
+8. [C++ Primer Plus 6th Edition](https://github.com/jason4wy/cxx/blob/master/C%2B%2B%20Primer%20Plus%206th%20Edition.pdf)
