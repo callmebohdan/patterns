@@ -7,3 +7,4 @@
 7. [Head First Design Patterns by Eric Freeman, Elisabeth Robson](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
 8. [C++ Primer Plus 6th Edition](https://github.com/jason4wy/cxx/blob/master/C%2B%2B%20Primer%20Plus%206th%20Edition.pdf)
 9. [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+10. [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
