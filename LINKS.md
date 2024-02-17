@@ -8,3 +8,4 @@
 8. [C++ Primer Plus 6th Edition](https://github.com/jason4wy/cxx/blob/master/C%2B%2B%20Primer%20Plus%206th%20Edition.pdf)
 9. [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 10. [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+11. [C++ Primer (5th Edition) by Stanley B. Lippman](https://github.com/yanshengjia/cpp-playground/blob/master/cpp-primer/resource/C%2B%2B%20Primer%20(5th%20Edition).pdf)
