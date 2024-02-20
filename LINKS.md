@@ -1,4 +1,4 @@
-1. https://www.oodesign.com
+1. [Design Patterns](https://www.oodesign.com)
 2. https://en.wikipedia.org/wiki/Software_design_pattern
 3. [Design Patterns](https://sourcemaking.com/design_patterns)
 4. [Summary of 'Clean code' by Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
