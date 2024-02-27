@@ -10,3 +10,4 @@
 10. [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 11. [C++ Primer (5th Edition) by Stanley B. Lippman](https://github.com/yanshengjia/cpp-playground/blob/master/cpp-primer/resource/C%2B%2B%20Primer%20(5th%20Edition).pdf)
 12. [Huge list of books](https://github.com/G33kzD3n/Catalogue)
+13. [Useful tips](https://github.com/G33kzD3n/every-programmer-should-know)
